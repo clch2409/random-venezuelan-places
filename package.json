@@ -1,0 +1,24 @@
+{
+  "name": "random-venezuelan-places",
+  "version": "1.0.0",
+  "description": "Just to show how beautifull is my country 🇻🇪",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clch2409/random-venezuelan-places.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clch2409/random-venezuelan-places.git"
+  },
+  "homepage": "https://github.com/clch2409/random-venezuelan-places.git",
+  "bin": {
+    "random-venezuelan-places": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
